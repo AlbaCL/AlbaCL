@@ -44,3 +44,24 @@ Click below if you are searching for a short paragraph with my bio written in th
 Alba Cervera-Lierta is a Senior Researcher at the Barcelona Supercomputing Center. She earned her PhD in 2019 at the University of Barcelona, where she studied physics and an MSc in particle physics. After her PhD, she moved to the University of Toronto as a postdoctoral fellow at the Alán Aspuru-Guizik group. She works on near-term quantum algorithms and their applications, high-dimensional quantum computation, and artificial intelligence strategies in quantum physics. Since October 2021, she is the coordinator of the Quantum Spain project, an initiative to boost the quantum computing ecosystem that will acquire and operate a quantum computer at the BSC-CNS.
 </div>
 
+<script>
+function myFunction() {
+  var x = document.getElementById("bio1");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
+<script>
+function myFunction2() {
+  var x = document.getElementById("bio2");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
