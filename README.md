@@ -32,4 +32,4 @@ Alba Cervera-Lierta is a Senior Researcher at the Barcelona Supercomputing Cente
 [Download my CV](https://github.com/AlbaCL/AlbaCL/blob/main/CV.pdf)
 
 [![@albaclierta](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/twitter-icon.svg)](https://x.com/albaclierta)
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="[http://www.google.com.au/images/nav_logo7.png](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/twitter-icon.svg)">]([http://google.com.au/](https://x.com/albaclierta))
