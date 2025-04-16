@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<h3>
+  <img align="right" height="500" src="./images/ACL_QC.jpg" alt="Barcelona Supercomputing Center quantum computer, by Mario Ejarque.">
+ </h3>
+
 ### About me
 
 [Download my full CV](https://github.com/AlbaCL/AlbaCL/blob/main/CV.pdf)
