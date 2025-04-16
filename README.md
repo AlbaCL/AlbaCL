@@ -1,23 +1,8 @@
 ## Hi there 👋
 
-<!--
-**AlbaCL/AlbaCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### About me
 
-[Download my CV](https://github.com/AlbaCL/AlbaCL/blob/main/CV.pdf)
+[Download my full CV](https://github.com/AlbaCL/AlbaCL/blob/main/CV.pdf)
 
 - :briefcase: **2021-Present:** Senior researcher, Ramón y Cajal fellow (Barcelona Supercomputing Center)
 - :briefcase: **2019-2021:** Postdoctoral fellow (University of Toronto)
@@ -25,14 +10,15 @@ Here are some ideas to get you started:
 - :mortar_board: **2015:** Master in Particle Physics (Universitat de Barcelona)
 - :mortar_board: **2014:** Physics degree (Universitat de Barcelona)
 
-## Research interests
+### Research interests
 
 - Near-term quantum computing
 - Quantum Machine Learning
 - Machine Learning for quantum
 - Quantum information
+- Quantum-HPC applications
 
-## Maybe you've heard of me if...
+### Maybe you've heard of me if...
 
 **...you work on quantum computing because...**
 - I'm the coordinator of the [Quantum Spain project](https://quantumspain-project.es/en/quantum-spain/)
@@ -48,11 +34,11 @@ https://doi.org/10.22331/q-2018-12-21-114) and [I won a prize for it!](https://g
 - I'm part of the EuroHPC-Joint Undertaking projects that integrate quantum computers into supercomputers [link](https://eurohpc-ju.europa.eu/selection-six-sites-host-first-european-quantum-computers-2022-10-04_en).
 
 **...or you work on particle physics because...**
-- We hypothetize that there's a Maximal Entanglement Principle that defines Nature's interactions [link to paper](
+- We hypothesize that there's a Maximal Entanglement Principle that defines Nature's interactions [link to paper](
 https://doi.org/10.21468/SciPostPhys.3.5.036)
 
 **...or you saw me on Spanish national TV...**
-- Constantes y Vitales campaign "Chicas, la ciencia nos necesita" [link[(https://www.lasexta.com/constantes-vitales/mujeres-cientificas/alba-cervera-sonaba-ser-exploradora-universo-cuantico_2023020963e4beb77b624e0001a95063.html)
+- Constantes y Vitales campaign "Chicas, la ciencia nos necesita" [link](https://www.lasexta.com/constantes-vitales/mujeres-cientificas/alba-cervera-sonaba-ser-exploradora-universo-cuantico_2023020963e4beb77b624e0001a95063.html)
 - Órbita Laika interview with Eduardo Sáenz de Cabezón [link](https://www.youtube.com/watch?v=SjOASr8n-DY&list=PLK0aD1enESuWKCWDZBytCa5eXpAjka0Mv)
 
 Click below if you are searching for a short paragraph with my bio written in third person:
