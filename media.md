@@ -102,4 +102,9 @@ Antonio Villarreal (*El Confidencial*), March 2023.
 
 ### Spanish
 
+- [El Cazador de Cerebros: Capítulo 100](https://www.rtve.es/play/videos/el-cazador-de-cerebros/cap-74-09-06-24/16140099/),  
+"El Cazador de Cerebros", *La2*, Pere Estupinyá, June 2024.
+- [Órbita Laika: entrevista a Alba Cervera](https://www.rtve.es/play/videos/orbita-laika/orbita-laika-futuro-entrevista/5266230/),  
+"Órbita Laika", *La2*, Eduardo Sáenz de Cabezón, June 2019.
+
 ### Catalan
