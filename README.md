@@ -6,7 +6,8 @@
 
 ### About me
 
-[Download my full CV](https://github.com/AlbaCL/AlbaCL/blob/main/CV.pdf)
+[Download my full CV](https://github.com/AlbaCL/AlbaCL/blob/main/CV.pdf)  
+[Check my media appearances](https://github.com/AlbaCL/AlbaCL/blob/main/media.md)
 
 - :briefcase: **2021-Present:** Senior researcher, Ramón y Cajal fellow (Barcelona Supercomputing Center)
 - :briefcase: **2019-2021:** Postdoctoral fellow (University of Toronto)
