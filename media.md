@@ -13,6 +13,8 @@
 
 ### Spanish
 
+- ["La cuántica es una gran apuesta europea: tenemos el conocimiento y los medios"](https://www.agenciasinc.es/Entrevistas/La-cuantica-es-una-gran-apuesta-europea-tenemos-el-conocimiento-y-los-medios),
+  *SINC*, Ana Hernando, May 2025.
 - [Alba Cervera (Quantum Spain): "Europa puede fácilmente liderar la carrera de la computación cuántica"](https://www.elespanol.com/invertia/disruptores-innovadores/politica-digital/espana/20230710/alba-cervera-quantum-spain-europa-puede-facilmente-liderar-carrera-computacion-cuantica/776922349_0.html),  
 *El Español*, Mar Carpena, July 2023.
 - [Co-protagonista libro "Sabias"](https://www.elconfidencial.com/tecnologia/ciencia/2022-11-30/cientificas-espanolas-ciencia-sabias-antonio-villarreal_3532111/),  
