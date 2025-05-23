@@ -79,6 +79,8 @@ Antonio Villarreal (*El Confidencial*), March 2023.
 
 ### Catalan
 
+- [Alba Cervera. Física (BSC). Computació quàntica](https://www.rtve.es/play/audios/diga-li-ciencia/alba-cervera-fisica-bsc-computacio-quantica/16592380/),  
+"Diga-li Ciència", *RNE-Radio4*, Pere Buhigas i Núria Coll, May 2025.
 - [Què és la computació quàntica i en què pot millorar la nostra vida?](https://www.ccma.cat/catradio/alacarta/popap/que-es-la-computacio-quantica-i-en-que-pot-millorar-la-nostra-vida/audio/1176900/),  
 "Popap", *Catalunya Radio*, Mariola Dinarès, June 2023.
 - [Josep Ramoneda conversa amb l'Alba Cervera, coordinadora del projecte Quantum Spain al Barcelona Supercomputing Center](https://cadenaser.com/audio/1686236807871/),
@@ -98,14 +100,21 @@ Antonio Villarreal (*El Confidencial*), March 2023.
 
 ## Videos
 
-(Under construction)
+(Under construction)  
+I try to keep updated the playlists of my [Youtube channel](https://www.youtube.com/channel/UCVzW73BIg4NLWJlQua59TKA) with all my talks, seminars and interviews there. 
 
 ### English
 
 ### Spanish
 
+- [Computación cuántica: pasado, presente y futuro de una revolución tecnológica](https://www.youtube.com/watch?v=oBgWjV25KVk&list=PLK0aD1enESuWKCWDZBytCa5eXpAjka0Mv&index=7),  
+UBU Investiga, February 2025.
 - [El Cazador de Cerebros: Capítulo 100](https://www.rtve.es/play/videos/el-cazador-de-cerebros/cap-74-09-06-24/16140099/),  
 "El Cazador de Cerebros", *La2*, Pere Estupinyá, June 2024.
+- ["Chicas, la ciéncia nos necesita"](https://www.lasexta.com/constantes-vitales/mujeres-cientificas/chicas-ciencia-nos-necesita-constantes-vitales-vuelca-inspirar-vocacion-cientifica-ninas-adolescentes_2023020963e383e3bf44120001cef324.html),  
+"Campaña Constantes y Vitales", *LaSexta* y "Fundación AXA", February 2023.
+- [Entrevista en Empodera Live 2019](https://www.youtube.com/watch?v=ERwPFbuee10&list=PLK0aD1enESuWKCWDZBytCa5eXpAjka0Mv&index=6),  
+"Tecnología Cívica ante los retos globales", September 2019. 
 - [Órbita Laika: entrevista a Alba Cervera](https://www.rtve.es/play/videos/orbita-laika/orbita-laika-futuro-entrevista/5266230/),  
 "Órbita Laika", *La2*, Eduardo Sáenz de Cabezón, June 2019.
 
