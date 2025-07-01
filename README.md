@@ -7,7 +7,7 @@
 ### About me
 
 [Download my full CV](https://github.com/AlbaCL/AlbaCL/blob/main/CV.pdf)  
-[Check my media appearances](https://github.com/AlbaCL/AlbaCL/blob/main/media.md)
+[Check my media appearances](https://github.com/AlbaCL/AlbaCL/blob/main/media.md)  
 [Read some of my popular science articles](https://github.com/AlbaCL/AlbaCL/blob/main/Articles/README.md)
 
 - :briefcase: **2021-Present:** Senior researcher, Ramón y Cajal fellow (Barcelona Supercomputing Center)
