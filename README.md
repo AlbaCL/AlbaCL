@@ -23,6 +23,7 @@
 - Machine Learning for quantum
 - Quantum information
 - Quantum-HPC applications
+- Quantum Information in High-Energy Physics
 
 ### Maybe you've heard of me if...
 
