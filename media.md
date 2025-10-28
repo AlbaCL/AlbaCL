@@ -48,6 +48,8 @@ Antonio Villarreal (*El Confidencial*), March 2023.
 
 ### Catalan
 
+- [La curiositat m'ha portat fins aquí](https://www.fullsdenginyeria.cat/la-curiositat-mha-portat-fins-aqui),
+  *Fulls d'Enginyeria*, Laia Sánchez Vaqués, October 2025.
 - ["Som a temps d’igualar-nos amb la Xina o els EUA i fabricar xips quàntics"](https://www.metadata.cat/entrevista/1925/alba-cervera-lierta-bsc-cns-ordinador-quantic),  
 *Metadata*, Marc Vilajosana, Jan 2022.
 - ["Primeres voltes"](https://www.lacomarca.net/primeres-voltes/),  
@@ -79,6 +81,10 @@ Antonio Villarreal (*El Confidencial*), March 2023.
 
 ### Catalan
 
+- [Quàntica, dones i revolució digital](https://www.3cat.cat/3cat/quantica-dones-i-revolucio-digital/audio/1258919/),
+  "Revolució 4.0", *Catalunya Ràdio*, Xantal Llavina, October 2025.
+- [Quàntica, superordinadors i espanta-sogres, amb Alba Cervera i Lierta](https://www.youtube.com/watch?v=f9smh_VM2x0),
+  "El dimoni de Maxwell", Mariona Esquerda i Celia Ventura, October 2025.
 - [Alba Cervera. Física (BSC). Computació quàntica](https://www.rtve.es/play/audios/diga-li-ciencia/alba-cervera-fisica-bsc-computacio-quantica/16592380/),  
 "Diga-li Ciència", *RNE-Radio4*, Pere Buhigas i Núria Coll, May 2025.
 - [Què és la computació quàntica i en què pot millorar la nostra vida?](https://www.ccma.cat/catradio/alacarta/popap/que-es-la-computacio-quantica-i-en-que-pot-millorar-la-nostra-vida/audio/1176900/),  
