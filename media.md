@@ -13,10 +13,10 @@
 
 ### Spanish
 
--["Los ordenadores cuánticos traman una revolución](https://www.elperiodico.com/ideas/ene-mas-uno/ordenadores-cuanticos.html), 
+- ["Los ordenadores cuánticos traman una revolución](https://www.elperiodico.com/ideas/ene-mas-uno/ordenadores-cuanticos.html),  
 *El Periódico de Catalunya*, Eduard Palomares, October 2025.
 - ["La cuántica es una gran apuesta europea: tenemos el conocimiento y los medios"](https://www.agenciasinc.es/Entrevistas/La-cuantica-es-una-gran-apuesta-europea-tenemos-el-conocimiento-y-los-medios),  
-  *SINC*, Ana Hernando, May 2025.
+*SINC*, Ana Hernando, May 2025.
 - [Alba Cervera (Quantum Spain): "Europa puede fácilmente liderar la carrera de la computación cuántica"](https://www.elespanol.com/invertia/disruptores-innovadores/politica-digital/espana/20230710/alba-cervera-quantum-spain-europa-puede-facilmente-liderar-carrera-computacion-cuantica/776922349_0.html),  
 *El Español*, Mar Carpena, July 2023.
 - [Co-protagonista libro "Sabias"](https://www.elconfidencial.com/tecnologia/ciencia/2022-11-30/cientificas-espanolas-ciencia-sabias-antonio-villarreal_3532111/),  
@@ -50,7 +50,7 @@ Antonio Villarreal (*El Confidencial*), March 2023.
 
 ### Catalan
 
-- [La curiositat m'ha portat fins aquí](https://www.fullsdenginyeria.cat/la-curiositat-mha-portat-fins-aqui),
+- [La curiositat m'ha portat fins aquí](https://www.fullsdenginyeria.cat/la-curiositat-mha-portat-fins-aqui),  
   *Fulls d'Enginyeria*, Laia Sánchez Vaqués, October 2025.
 - ["Som a temps d’igualar-nos amb la Xina o els EUA i fabricar xips quàntics"](https://www.metadata.cat/entrevista/1925/alba-cervera-lierta-bsc-cns-ordinador-quantic),  
 *Metadata*, Marc Vilajosana, Jan 2022.
@@ -72,6 +72,8 @@ Antonio Villarreal (*El Confidencial*), March 2023.
 
 ### Spanish
 
+- [Qubits para entender el universo](https://omny.fm/shows/cuidado-con-las-macros-ocultas/m43-qubits-para-entender-el-universo),  
+"Cuidado con las macros ocultas", *CuatroOchenta*, Bárbara Villuendas, November 2025. 
 - [Alba Cervera, premio mujer investigadora de ingeniería](https://www.lacomarca.net/podcasts/alba-cervera-premio-mujer-investigadora-de-ingenieria/),  
   *Radio La Comarca*, Mario Blas Alba, June 2024.
 - [Física Cuántica](https://www.rtve.es/play/audios/futuro-abierto/fisica-cuantica/6708882/),  
@@ -83,15 +85,15 @@ Antonio Villarreal (*El Confidencial*), March 2023.
 
 ### Catalan
 
-- [Quàntica, dones i revolució digital](https://www.3cat.cat/3cat/quantica-dones-i-revolucio-digital/audio/1258919/),
+- [Quàntica, dones i revolució digital](https://www.3cat.cat/3cat/quantica-dones-i-revolucio-digital/audio/1258919/),  
   "Revolució 4.0", *Catalunya Ràdio*, Xantal Llavina, October 2025.
-- [Quàntica, superordinadors i espanta-sogres, amb Alba Cervera i Lierta](https://www.youtube.com/watch?v=f9smh_VM2x0),
+- [Quàntica, superordinadors i espanta-sogres, amb Alba Cervera i Lierta](https://www.youtube.com/watch?v=f9smh_VM2x0),  
   "El dimoni de Maxwell", Mariona Esquerda i Celia Ventura, October 2025.
-- [Alba Cervera. Física (BSC). Computació quàntica](https://www.rtve.es/play/audios/diga-li-ciencia/alba-cervera-fisica-bsc-computacio-quantica/16592380/),  
+- [Alba Cervera. Física (BSC). Computació quàntica](https://www.rtve.es/play/audios/diga-li-ciencia/alba-cervera-fisica-bsc-computacio-quantica/16592380/),   
 "Diga-li Ciència", *RNE-Radio4*, Pere Buhigas i Núria Coll, May 2025.
 - [Què és la computació quàntica i en què pot millorar la nostra vida?](https://www.ccma.cat/catradio/alacarta/popap/que-es-la-computacio-quantica-i-en-que-pot-millorar-la-nostra-vida/audio/1176900/),  
 "Popap", *Catalunya Radio*, Mariola Dinarès, June 2023.
-- [Josep Ramoneda conversa amb l'Alba Cervera, coordinadora del projecte Quantum Spain al Barcelona Supercomputing Center](https://cadenaser.com/audio/1686236807871/),
+- [Josep Ramoneda conversa amb l'Alba Cervera, coordinadora del projecte Quantum Spain al Barcelona Supercomputing Center](https://cadenaser.com/audio/1686236807871/),  
 "El Balcó", *SER Catalunya, Josep Ramoneda, June 2023.
 - [60 Projecte QUANTUM SPAIN amb Alba Cervera-Lierta](https://besuricata.com/projecte-quantum-spain-amb-alba-cervera-lierta/),  
 *Besuricata*, Miquel Gabarró, March 2022.
@@ -112,6 +114,9 @@ Antonio Villarreal (*El Confidencial*), March 2023.
 I try to keep updated the playlists of my [Youtube channel](https://www.youtube.com/channel/UCVzW73BIg4NLWJlQua59TKA) with all my talks, seminars and interviews there. 
 
 ### English
+
+- [Alba Cervera-Lierta](https://www.youtube.com/watch?v=Nis9H__SGHc),  
+"Between Two Kets", *Pennylane*, Isaac De Vlugt, March 2024.
 
 ### Spanish
 
