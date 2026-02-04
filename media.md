@@ -72,6 +72,8 @@ Antonio Villarreal (*El Confidencial*), March 2023.
 
 ### Spanish
 
+- [Alba Cervera, física especializada en Computación Cuántica](https://www.rtve.es/play/audios/irrepetibles-en-radio-5/alba-cervera-fisica-especializada-computacion-cuantica/16901522/),  
+"Irrepetibles", *Radio 5*, Carles Mesa, January 2026.
 - [Qubits para entender el universo](https://omny.fm/shows/cuidado-con-las-macros-ocultas/m43-qubits-para-entender-el-universo),  
 "Cuidado con las macros ocultas", *CuatroOchenta*, Bárbara Villuendas, November 2025. 
 - [Alba Cervera, premio mujer investigadora de ingeniería](https://www.lacomarca.net/podcasts/alba-cervera-premio-mujer-investigadora-de-ingenieria/),  
