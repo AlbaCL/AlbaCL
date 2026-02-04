@@ -78,6 +78,8 @@ Antonio Villarreal (*El Confidencial*), March 2023.
 "Cuidado con las macros ocultas", *CuatroOchenta*, Bárbara Villuendas, November 2025. 
 - [Alba Cervera, premio mujer investigadora de ingeniería](https://www.lacomarca.net/podcasts/alba-cervera-premio-mujer-investigadora-de-ingenieria/),  
   *Radio La Comarca*, Mario Blas Alba, June 2024.
+- [El ordenador del futuro ya se está instalando en Barcelona](https://cadenaser.com/audio/1696153059432/),  
+"A vivir que son dos días", *SER podcast*, Javier del Pino, October 2023.
 - [Física Cuántica](https://www.rtve.es/play/audios/futuro-abierto/fisica-cuantica/6708882/),  
 "Futuro Abierto", *RNE*, Tato Puerto, October 2022.
 - [A Hombros de Gigantes: Quantum Spain](https://www.rtve.es/play/audios/a-hombros-de-gigantes/palabra-ingeniero-quantum-spain-21-12-21/6256464/),  
