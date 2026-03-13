@@ -13,6 +13,8 @@
 
 ### Spanish
 
+- ["Alba Cervera, la investigadora que integra los primeros ordenadores cuánticos de España en la red de Supercomputación e investiga nuevas aplicaciones con IA"](https://es.wired.com/articulos/alba-cervera-la-investigadora-que-integra-los-primeros-ordenadores-cuanticos-de-espana-en-la-red-de-supercomputacion-e-investiga-nuevas-aplicaciones-con-ia),  
+*Wired*, Catalina Rebollo, March 2026.
 - ["Los ordenadores cuánticos traman una revolución](https://www.elperiodico.com/ideas/ene-mas-uno/ordenadores-cuanticos.html),  
 *El Periódico de Catalunya*, Eduard Palomares, October 2025.
 - ["La cuántica es una gran apuesta europea: tenemos el conocimiento y los medios"](https://www.agenciasinc.es/Entrevistas/La-cuantica-es-una-gran-apuesta-europea-tenemos-el-conocimiento-y-los-medios),  
