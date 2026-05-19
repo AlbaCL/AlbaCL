@@ -26,6 +26,8 @@ Alba Cervera Lierta y Alejandro Pozas Kerstjens, REF 34(1), 2020.
 
 ### Otros medios
 
+- [Carta a mi yo del futuro](https://github.com/AlbaCL/AlbaCL/blob/main/Articles/ALBA_CERVERA_telos-129-cuaderno-central-carta-a-mi-yo-del-futuro.pdf),  
+Alba Cervera Lierta, [TELOS 129, 2026](https://telos.fundaciontelefonica.com/revista/telos-129/).
 - [Computación cuántica: una nueva (r)evolución en computación](https://github.com/AlbaCL/AlbaCL/blob/main/Articles/Bit_2025_computacion_cuantica.pdf),  
 Alba Cervera Lierta, [Revista BIT 236, 2025](https://bit.coit.es/?jet_download=c3d8c2d1ed71dbd27fcc39df2493f6f2dcd2a2b8).
 - [El ordenador cuántico: un camino de ciencia, tecnología y sobiranía](https://github.com/AlbaCL/AlbaCL/blob/main/Articles/IDEES_computacion_cuantica_ESP.pdf),  
