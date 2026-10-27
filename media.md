@@ -126,6 +126,8 @@ I try to keep updated the playlists of my [Youtube channel](https://www.youtube.
 
 ### Spanish
 
+- [Del BAR al ORDENADOR CUÁNTICO | Alba Cervera, BSN-CNS](https://www.youtube.com/watch?v=H0n5KSNXzQo),  
+Rivela, *Youtube*, Silvia Rivela, Feburary 2026.
 - [Computación cuántica: pasado, presente y futuro de una revolución tecnológica](https://www.youtube.com/watch?v=oBgWjV25KVk&list=PLK0aD1enESuWKCWDZBytCa5eXpAjka0Mv&index=7),  
 UBU Investiga, February 2025.
 - [El Cazador de Cerebros: Capítulo 100](https://www.rtve.es/play/videos/el-cazador-de-cerebros/cap-74-09-06-24/16140099/),  
